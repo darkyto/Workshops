@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Workshop\DataStructures\Jedies\bin\Debug\Jedies.exe.config
+D:\TELERIK\DSA\Workshop\DataStructures\Jedies\obj\Debug\Jedies.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Workshop\DataStructures\Jedies\bin\Debug\Jedies.exe
+D:\TELERIK\DSA\Workshop\DataStructures\Jedies\bin\Debug\Jedies.pdb
+D:\TELERIK\DSA\Workshop\DataStructures\Jedies\obj\Debug\Jedies.exe
+D:\TELERIK\DSA\Workshop\DataStructures\Jedies\obj\Debug\Jedies.pdb

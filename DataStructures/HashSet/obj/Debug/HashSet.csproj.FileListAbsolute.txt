@@ -1,0 +1,6 @@
+D:\TELERIK\DSA\Workshop\DataStructures\HashSet\bin\Debug\HashSet.exe.config
+D:\TELERIK\DSA\Workshop\DataStructures\HashSet\bin\Debug\HashSet.exe
+D:\TELERIK\DSA\Workshop\DataStructures\HashSet\bin\Debug\HashSet.pdb
+D:\TELERIK\DSA\Workshop\DataStructures\HashSet\obj\Debug\HashSet.csprojResolveAssemblyReference.cache
+D:\TELERIK\DSA\Workshop\DataStructures\HashSet\obj\Debug\HashSet.exe
+D:\TELERIK\DSA\Workshop\DataStructures\HashSet\obj\Debug\HashSet.pdb

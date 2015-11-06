@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet", "HashSet\HashSet.csproj", "{761AF642-76A4-4ED9-A23F-839D522DAD37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{4AA486D2-9109-4EEA-B9BA-228251AB55CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jedies", "Jedies\Jedies.csproj", "{23AE7A96-78FE-4A80-9CF9-DFC6F1CB7662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761AF642-76A4-4ED9-A23F-839D522DAD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761AF642-76A4-4ED9-A23F-839D522DAD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761AF642-76A4-4ED9-A23F-839D522DAD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761AF642-76A4-4ED9-A23F-839D522DAD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA486D2-9109-4EEA-B9BA-228251AB55CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA486D2-9109-4EEA-B9BA-228251AB55CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA486D2-9109-4EEA-B9BA-228251AB55CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA486D2-9109-4EEA-B9BA-228251AB55CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AE7A96-78FE-4A80-9CF9-DFC6F1CB7662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AE7A96-78FE-4A80-9CF9-DFC6F1CB7662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AE7A96-78FE-4A80-9CF9-DFC6F1CB7662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AE7A96-78FE-4A80-9CF9-DFC6F1CB7662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
