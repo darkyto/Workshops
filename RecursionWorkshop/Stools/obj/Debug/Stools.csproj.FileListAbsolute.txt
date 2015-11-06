@@ -1,0 +1,5 @@
+c:\users\divided.zero\documents\visual studio 2015\Projects\RecursionWorkshop\Stools\bin\Debug\Stools.exe.config
+c:\users\divided.zero\documents\visual studio 2015\Projects\RecursionWorkshop\Stools\bin\Debug\Stools.exe
+c:\users\divided.zero\documents\visual studio 2015\Projects\RecursionWorkshop\Stools\bin\Debug\Stools.pdb
+c:\users\divided.zero\documents\visual studio 2015\Projects\RecursionWorkshop\Stools\obj\Debug\Stools.exe
+c:\users\divided.zero\documents\visual studio 2015\Projects\RecursionWorkshop\Stools\obj\Debug\Stools.pdb
