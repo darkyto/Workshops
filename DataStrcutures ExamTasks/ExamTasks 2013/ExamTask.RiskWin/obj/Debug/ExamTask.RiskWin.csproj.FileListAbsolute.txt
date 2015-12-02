@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.RiskWin\bin\Debug\ExamTask.RiskWin.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.RiskWin\obj\Debug\ExamTask.RiskWin.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.RiskWin\bin\Debug\ExamTask.RiskWin.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.RiskWin\bin\Debug\ExamTask.RiskWin.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.RiskWin\obj\Debug\ExamTask.RiskWin.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.RiskWin\obj\Debug\ExamTask.RiskWin.pdb

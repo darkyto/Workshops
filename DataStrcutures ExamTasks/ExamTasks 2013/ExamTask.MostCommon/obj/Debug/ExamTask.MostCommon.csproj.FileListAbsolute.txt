@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MostCommon\bin\Debug\ExamTask.MostCommon.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MostCommon\bin\Debug\ExamTask.MostCommon.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MostCommon\bin\Debug\ExamTask.MostCommon.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MostCommon\obj\Debug\ExamTask.MostCommon.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MostCommon\obj\Debug\ExamTask.MostCommon.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MostCommon\obj\Debug\ExamTask.MostCommon.pdb

@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.Words\bin\Debug\ExamTask.Words.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.Words\bin\Debug\ExamTask.Words.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.Words\bin\Debug\ExamTask.Words.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.Words\obj\Debug\ExamTask.Words.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.Words\obj\Debug\ExamTask.Words.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.Words\obj\Debug\ExamTask.Words.pdb

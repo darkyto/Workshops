@@ -1,0 +1,5 @@
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.FriendsList\bin\Debug\Example.FriendsList.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.FriendsList\bin\Debug\Example.FriendsList.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.FriendsList\bin\Debug\Example.FriendsList.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.FriendsList\obj\Debug\Example.FriendsList.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.FriendsList\obj\Debug\Example.FriendsList.pdb

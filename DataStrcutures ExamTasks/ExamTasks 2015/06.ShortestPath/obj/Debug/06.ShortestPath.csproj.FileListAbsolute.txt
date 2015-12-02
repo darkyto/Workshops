@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\06.ShortestPath\bin\Debug\06.ShortestPath.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\06.ShortestPath\bin\Debug\06.ShortestPath.exe
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\06.ShortestPath\bin\Debug\06.ShortestPath.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\06.ShortestPath\obj\Debug\06.ShortestPath.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\06.ShortestPath\obj\Debug\06.ShortestPath.exe
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\06.ShortestPath\obj\Debug\06.ShortestPath.pdb

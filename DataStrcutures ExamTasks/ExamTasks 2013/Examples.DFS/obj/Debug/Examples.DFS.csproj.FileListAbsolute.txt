@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Examples.DFS\bin\Debug\Examples.DFS.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Examples.DFS\bin\Debug\Examples.DFS.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Examples.DFS\bin\Debug\Examples.DFS.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Examples.DFS\obj\Debug\Examples.DFS.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Examples.DFS\obj\Debug\Examples.DFS.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Examples.DFS\obj\Debug\Examples.DFS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MaximalSum\bin\Debug\ExamTask.MaximalPath.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MaximalSum\bin\Debug\ExamTask.MaximalPath.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MaximalSum\bin\Debug\ExamTask.MaximalPath.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MaximalSum\obj\Debug\ExamTask.MaximalPath.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MaximalSum\obj\Debug\ExamTask.MaximalPath.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\ExamTask.MaximalSum\obj\Debug\ExamTask.MaximalPath.pdb

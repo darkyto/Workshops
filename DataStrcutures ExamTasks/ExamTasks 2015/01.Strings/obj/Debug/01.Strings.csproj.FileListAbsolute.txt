@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\01.Strings\bin\Debug\01.Strings.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\01.Strings\bin\Debug\01.Strings.exe
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\01.Strings\bin\Debug\01.Strings.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\01.Strings\obj\Debug\01.Strings.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\01.Strings\obj\Debug\01.Strings.exe
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\01.Strings\obj\Debug\01.Strings.pdb

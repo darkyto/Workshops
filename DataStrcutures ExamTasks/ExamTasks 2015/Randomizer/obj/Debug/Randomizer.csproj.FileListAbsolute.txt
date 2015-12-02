@@ -1,0 +1,5 @@
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\Randomizer\bin\Debug\Randomizer.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\Randomizer\bin\Debug\Randomizer.exe
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\Randomizer\bin\Debug\Randomizer.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\Randomizer\obj\Debug\Randomizer.exe
+D:\Personal\TELERIK\DSA\examPrepar\2015\ExamTasks\Randomizer\obj\Debug\Randomizer.pdb

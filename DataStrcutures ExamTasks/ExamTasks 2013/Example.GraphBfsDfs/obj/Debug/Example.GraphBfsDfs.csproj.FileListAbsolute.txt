@@ -1,0 +1,6 @@
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.GraphBfsDfs\bin\Debug\Example.GraphBfsDfs.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.GraphBfsDfs\bin\Debug\Example.GraphBfsDfs.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.GraphBfsDfs\bin\Debug\Example.GraphBfsDfs.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.GraphBfsDfs\obj\Debug\Example.GraphBfsDfs.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.GraphBfsDfs\obj\Debug\Example.GraphBfsDfs.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.GraphBfsDfs\obj\Debug\Example.GraphBfsDfs.pdb

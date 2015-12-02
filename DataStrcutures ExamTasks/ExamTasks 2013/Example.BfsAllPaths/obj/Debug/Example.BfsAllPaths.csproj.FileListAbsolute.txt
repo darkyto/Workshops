@@ -1,0 +1,5 @@
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.BfsAllPaths\bin\Debug\Example.BfsAllPaths.exe.config
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.BfsAllPaths\bin\Debug\Example.BfsAllPaths.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.BfsAllPaths\bin\Debug\Example.BfsAllPaths.pdb
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.BfsAllPaths\obj\Debug\Example.BfsAllPaths.exe
+D:\Personal\TELERIK\DSA\examPrepar\2013\ExamTask\Example.BfsAllPaths\obj\Debug\Example.BfsAllPaths.pdb
